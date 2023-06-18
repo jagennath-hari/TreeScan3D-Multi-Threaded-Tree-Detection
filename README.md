@@ -15,4 +15,4 @@ ParallelTrunk is an innovative project that leverages the power of 3D computer v
 2) PCL ([Offical Guide](https://pointclouds.org/downloads/))
 
 ## To Use
-1) `catkin build -DCMAKE_BUILD_TYPE=Release -j(nproc)`
+1) `catkin build -DCMAKE_BUILD_TYPE=Release`
