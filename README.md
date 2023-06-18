@@ -29,7 +29,7 @@ TreeScan3D is an innovative project that leverages the power of 3D computer visi
     <p>3D Bounding Box</p>
 </div>
 
-## Visualization
+## 🖼️ Visualization
 RVIZ can be used to visualize the Bounding Box and the computed instance cloud
 <div align="center">
     <img src="assets/RVIZ.png" alt="RVIZ" width="500"/>
