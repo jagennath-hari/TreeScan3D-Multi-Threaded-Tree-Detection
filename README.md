@@ -16,3 +16,5 @@ ParallelTrunk is an innovative project that leverages the power of 3D computer v
 
 ## To Use
 1) `catkin build -DCMAKE_BUILD_TYPE=Release`
+2) source workspace or `.bashrc` if already added
+3) `rosrun detector dete`
