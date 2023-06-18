@@ -13,3 +13,6 @@ ParallelTrunk is an innovative project that leverages the power of 3D computer v
 ## Dependencies
 1) ROS ([Offical Guide](http://wiki.ros.org/noetic/Installation/Ubuntu))
 2) PCL ([Offical Guide](https://pointclouds.org/downloads/))
+
+## To Use
+1) `catkin build -DCMAKE_BUILD_TYPE=Release -j(nproc)`
