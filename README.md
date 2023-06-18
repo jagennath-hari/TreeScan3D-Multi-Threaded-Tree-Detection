@@ -1,4 +1,4 @@
 # TreeScan3D-Multi-Threaded-Tree-Detection
 ParallelTrunk is an innovative project that leverages the power of 3D computer vision and multi-threaded processing for efficient tree detection. Leverages ROS, PCL and C++.
 
-![alt-text-1](Depth Map.gif "title-1") ![alt-text-2](Point Cloud.gif "title-2")
+![alt-text-1](assets/DepthMap.gif "title-1") ![alt-text-2](assets/PointCloud.gif "title-2")
