@@ -12,4 +12,4 @@ ParallelTrunk is an innovative project that leverages the power of 3D computer v
 
 ## Dependencies
 1) ROS ([Offical Guide](http://wiki.ros.org/noetic/Installation/Ubuntu))
-2) PCL (Should be installed by ROS if full destop was installed)
+2) PCL ([Offical Guide](https://pointclouds.org/downloads/))
