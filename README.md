@@ -10,7 +10,7 @@ TreeScan3D is an innovative project that leverages the power of 3D computer visi
     <p>Point Cloud</p>
 </div>
 
-## ⚠️ Dependencies
+## 🏁 Dependencies
 1) ROS ([Offical Guide](http://wiki.ros.org/noetic/Installation/Ubuntu))
 2) PCL ([Offical Guide](https://pointclouds.org/downloads/))
 
@@ -40,5 +40,5 @@ RVIZ can be used to visualize the Bounding Box and the computed instance cloud
 1) /tree_cloud (sensor_msgs/PointCloud2)
 2) /bounding_box (visualization_msgs/Marker)
 
-## Note:
+## ⚠️ Note:
 This algorithm is still under development and has not been tested in real-time for its accuracy.
