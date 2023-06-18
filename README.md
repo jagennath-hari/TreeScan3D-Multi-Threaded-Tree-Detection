@@ -6,6 +6,6 @@ ParallelTrunk is an innovative project that leverages the power of 3D computer v
     <p>Depth Map</p>
 </div>
 <div align="center">
-    <img src="assets/PointCloud.gif" alt="Image 2" width=900"/>
+    <img src="assets/PointCloud.gif" alt="Image 2" width=500"/>
     <p>Point Cloud</p>
 </div>
