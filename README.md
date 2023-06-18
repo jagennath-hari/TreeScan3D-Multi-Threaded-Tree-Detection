@@ -10,16 +10,16 @@ TreeScan3D is an innovative project that leverages the power of 3D computer visi
     <p>Point Cloud</p>
 </div>
 
-## Dependencies
+## ⚠️ Dependencies
 1) ROS ([Offical Guide](http://wiki.ros.org/noetic/Installation/Ubuntu))
 2) PCL ([Offical Guide](https://pointclouds.org/downloads/))
 
-## To Use
+## ⚙️ To Use
 1) `catkin build -DCMAKE_BUILD_TYPE=Release`
 2) source workspace or `.bashrc` if already added
 3) `rosrun detector detectorV2`
 
-## 3D Bounding Box with instance labelled Point Cloud
+## 🎋 3D Bounding Box with instance labelled Point Cloud
 <div align="center">
     <img src="assets/InstanceCloud.gif" alt="Instance Cloud" width="500"/>
     <p>Instance Cloud</p>
