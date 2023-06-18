@@ -9,3 +9,7 @@ ParallelTrunk is an innovative project that leverages the power of 3D computer v
     <img src="assets/PointCloud.gif" alt="Image 2" width=500"/>
     <p>Point Cloud</p>
 </div>
+
+## Dependencies
+1) ROS ([Offical Guide](http://wiki.ros.org/noetic/Installation/Ubuntu))
+2) PCL (Should be installed by ROS if full destop was installed)
