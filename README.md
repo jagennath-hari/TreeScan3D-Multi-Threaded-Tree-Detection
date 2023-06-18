@@ -20,3 +20,11 @@ ParallelTrunk is an innovative project that leverages the power of 3D computer v
 3) `rosrun detector detectorV2`
 
 ## 3D Bounding Box with instance labelled Point Cloud
+<div align="center">
+    <img src="assets/InstanceCloud.gif" alt="Image 1" width="500"/>
+    <p>Instance Cloud</p>
+</div>
+<div align="center">
+    <img src="assets/3DBoundingBox.gif" alt="Image 2" width=500"/>
+    <p>3D Bounding Box</p>
+</div>
