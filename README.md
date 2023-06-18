@@ -36,4 +36,8 @@ RVIZ can be used to visualize the Bounding Box and the computed instance cloud
     <p>RVIZ Window</p>
 </div>
 
+### Published Topics
+1) /tree_cloud (sensor_msgs/PointCloud2)
+2) /bounding_box (visualization_msgs/Marker)
+
 
