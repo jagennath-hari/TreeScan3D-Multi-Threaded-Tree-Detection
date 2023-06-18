@@ -2,11 +2,11 @@
 TreeScan3D is an innovative project that leverages the power of 3D computer vision and multi-threaded processing for efficient tree detection. Leverages ROS, PCL and C++.
 
 <div align="center">
-    <img src="assets/DepthMap.gif" alt="Image 1" width="500"/>
+    <img src="assets/DepthMap.gif" alt="Depth Map" width="500"/>
     <p>Depth Map</p>
 </div>
 <div align="center">
-    <img src="assets/PointCloud.gif" alt="Image 2" width=500"/>
+    <img src="assets/PointCloud.gif" alt="Point Cloud" width=500"/>
     <p>Point Cloud</p>
 </div>
 
@@ -21,11 +21,11 @@ TreeScan3D is an innovative project that leverages the power of 3D computer visi
 
 ## 3D Bounding Box with instance labelled Point Cloud
 <div align="center">
-    <img src="assets/InstanceCloud.gif" alt="Image 1" width="500"/>
+    <img src="assets/InstanceCloud.gif" alt="Instance Cloud" width="500"/>
     <p>Instance Cloud</p>
 </div>
 <div align="center">
-    <img src="assets/3DBoundingBox.gif" alt="Image 2" width=500"/>
+    <img src="assets/3DBoundingBox.gif" alt="Bounding Box" width=500"/>
     <p>3D Bounding Box</p>
 </div>
 
