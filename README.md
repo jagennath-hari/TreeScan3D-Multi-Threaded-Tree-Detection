@@ -3,7 +3,5 @@ ParallelTrunk is an innovative project that leverages the power of 3D computer v
 
 <p float="center">
   <img src="assets/Depth Map.gif" width="400" height="350" />
-  <img src="assets/Point Cloud.gif" width="400" height="350" />
-  <em>image_caption</em>
   <em>image_caption</em>
 </p> 
